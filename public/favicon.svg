@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <circle cx="24" cy="24" r="22" fill="#1a1816" stroke="#3a3533" stroke-width="1"/>
+  <path d="M24 4 L24 24 L40.5 8.2" fill="#c2185b" stroke="#1a1816" stroke-width="0.5"/>
+  <path d="M24 4 L24 24 L7.5 8.2" fill="#ef6c00" stroke="#1a1816" stroke-width="0.5"/>
+  <path d="M40.5 8.2 L24 24 L43 20" fill="#7b1fa2" stroke="#1a1816" stroke-width="0.5"/>
+  <path d="M7.5 8.2 L24 24 L5 20" fill="#ef6c00" stroke="#1a1816" stroke-width="0.5"/>
+  <path d="M43 20 L24 24 L36 40" fill="#1565c0" stroke="#1a1816" stroke-width="0.5"/>
+  <path d="M5 20 L24 24 L12 40" fill="#ef6c00" stroke="#1a1816" stroke-width="0.5"/>
+  <path d="M36 40 L24 24 L12 40" fill="#00838f" stroke="#1a1816" stroke-width="0.5"/>
+  <!-- simplified 5-segment wheel -->
+  <circle cx="24" cy="24" r="6" fill="#1a1816"/>
+</svg>
