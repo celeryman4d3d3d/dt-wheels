@@ -4,4 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
+  server: {
+    allowedHosts: ['devserver-preview--dt-wheels.netlify.app'],
+  },
 })
